@@ -1,6 +1,6 @@
 file_format: "1"
-id: urchin
-name: urchin
+id: Urchin
+name: Urchin
 type: shield
 url: https://github.com/duckyb/urchin
 requires: [pro_micro]
